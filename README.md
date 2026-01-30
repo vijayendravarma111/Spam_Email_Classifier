@@ -48,8 +48,8 @@ Given the content of an email, classify it as:
 
 Sample Visualizations:
 
-![Spam vs Ham](screenshots/eda_spam_vs_ham.png)
-![Email Length Distribution](screenshots/email_length_distribution.png)
+![Spam vs Ham](screenshots/Spam vs Ham Distribution.png)
+![Email Length Distribution](screenshots/Email Length Distribution.png)
 
 ---
 
